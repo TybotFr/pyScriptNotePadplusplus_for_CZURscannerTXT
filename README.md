@@ -1,0 +1,1 @@
+# pyScriptNotePadplusplus_for_CZURscannerTXT
